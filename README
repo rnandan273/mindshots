@@ -1,0 +1,6 @@
+
+Run the following commands to bring the system up.
+./chasernetwork.sh down
+./chasernetwork.sh up -ca
+./chasernetwork.sh createChannel
+./chasernetwork.sh chaserCC -l javascript
